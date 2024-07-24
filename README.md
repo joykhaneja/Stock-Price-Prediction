@@ -14,7 +14,6 @@ This project demonstrates how to predict stock prices using a Long Short-Term Me
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project aims to predict future stock prices using historical stock price data. We use an LSTM model, a type of recurrent neural network (RNN) that is well-suited for time series forecasting.
