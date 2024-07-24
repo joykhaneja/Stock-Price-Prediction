@@ -1,5 +1,5 @@
 
-# Stock Price Prediction using LSTM in Google Colab
+# Stock Price Prediction using LSTM Model
 
 This project demonstrates how to predict stock prices using a Long Short-Term Memory (LSTM) neural network in Python, implemented in a Google Colab environment. The project involves data preprocessing, building and training an LSTM model, and making predictions on stock price data.
 
